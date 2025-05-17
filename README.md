@@ -35,6 +35,7 @@ possible. The addresses are MEM_SIZE modulo.
   ├── lib/ # Personnal library
   ├── parser/ # Parses .cor files
   ├── vm/ # Virtual Machine: runs compiled .cor programs
+└── Corewar.pdf # Corewar project
 ├── Makefile # Build system
 └── README.md # This documentation file
 
