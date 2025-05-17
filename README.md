@@ -26,7 +26,7 @@ possible. The addresses are MEM_SIZE modulo.
 
 ## 📁 Project Structure
 
-corewar/
+```corewar/
 ├── champions/ # Assembler: compiles .s source files into .cor binaries
 ├── vm/ # Virtual Machine: runs compiled .cor programs
 ├── include/ # Header files
@@ -36,6 +36,6 @@ corewar/
   ├── parser/ # Parses .cor files
   ├── vm/ # Virtual Machine: runs compiled .cor programs
 ├── Makefile # Build system
-└── README.md # This documentation file
+└── README.md # This documentation file```
 
 
