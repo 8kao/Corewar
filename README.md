@@ -36,6 +36,6 @@ possible. The addresses are MEM_SIZE modulo.
   ├── parser/ # Parses .cor files
   ├── vm/ # Virtual Machine: runs compiled .cor programs
 ├── Makefile # Build system
-└── README.md # This documentation file```
+└── README.md # This documentation file
 
 
