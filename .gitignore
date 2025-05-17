@@ -1,8 +1,0 @@
-coding-style-reports.log
-*.o
-*.cor
-corewar
-binaries
-champions
-*.s
-asm
